@@ -1,5 +1,5 @@
 import './App.css'
-import Starter from './starter/01-error-example'
+import Starter from './starter/02-useState-basics'
 
 function App() {
 
