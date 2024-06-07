@@ -1,8 +1,14 @@
 import './App.css'
+import Starter from './starter/01-error-example'
 
 function App() {
 
-  return <h1>hello world</h1>
+  return (
+    <div className='container'>
+      <Starter />
+
+    </div>
+  )
 }
 
 export default App
