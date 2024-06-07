@@ -1,5 +1,5 @@
 import './App.css'
-import Starter from './starter/02-useState-basics'
+import Starter from './starter/03-useState-array'
 
 function App() {
 
