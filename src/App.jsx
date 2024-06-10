@@ -1,5 +1,5 @@
 import './App.css'
-import Starter from './starter/05-useState-gotcha'
+import Starter from './02-useEffect/starter/02-useEffect-basics'
 
 function App() {
 
