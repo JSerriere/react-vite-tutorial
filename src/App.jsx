@@ -1,5 +1,5 @@
 import './App.css'
-import Starter from './02-useEffect/starter/03-multiple-effects'
+import Starter from './02-useEffect/starter/04-fetch-data'
 
 function App() {
 
