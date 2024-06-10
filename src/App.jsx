@@ -1,5 +1,5 @@
 import './App.css'
-import Starter from './02-useEffect/starter/04-fetch-data'
+import Starter from './03-conditional-rendering/starter/01-multiple-returns-basics'
 
 function App() {
 
